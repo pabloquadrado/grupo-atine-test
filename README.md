@@ -1,24 +1,24 @@
 <h1 align="center"><strong>Grupo Atine Test</strong></h1>
 
-## 💬 Sobre
+## 💬 About
 
-Desafio técnico proposto pelo Grupo Atine durante o processo seletivo.
+Technical challenge proposed by Atine Group during the selection process.
 
-## 📋 Tecnologias Utilizadas
+## 📋 Technologies Used
 
 - **PHP 7.3**
 - **Docker**
 - **Composer**
 - **NGINX**
 
-## 🖥 Instalação
+## 🖥 Setup
 
-1. Clonar o projeto
-2. Instalar as dependências do projeto através de ``` composer install ```
-3. Por fim, para subir o ambiente da aplicação, basta rodar ``` composer up ``` e aplicação irá rodar em ``` http://localhost:9001 ```.
+1. Clone the project
+2. Install project dependencies with  ``` composer install ```
+3. For execute the server, run``` composer up ``` and the application will run on ``` http://localhost:9001 ```.
 
-Para encerrar a execução da aplicação, basta rodar ``` composer stop ```.
+To finish the application, run ``` composer stop ```.
 
-## ⚙️ Testes
+## ⚙️ Tests
 
-Para executar os testes, basta rodar ``` composer test ```.
+To execute the tests, run``` composer test ```.
