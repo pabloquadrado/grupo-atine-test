@@ -31,7 +31,6 @@ class MultipleFiveSerializerTest extends TestCase
      */
     public function testFiveInsteadTheNumber()
     {
-
         $this->assertEquals('Five', $this->serializer->serialize(5));
     }
 
